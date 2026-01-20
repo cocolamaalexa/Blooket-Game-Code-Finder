@@ -1,7 +1,7 @@
 # CONFIG AREA BELOW
 useWebhook = True # Use a discord webhook or not, if yes, fill in the line below
 webhook = 'Your discord webhook url'
-thread_amount = 25 # How many threads to use? Put it below 10 if using on your home computer. 25 max (also fastest)
+thread_amount = 5 # How many threads to use? Put it below 10 if using on your home computer. 25 max (also fastest)
 logInvalids = False # Don't enable unless you want to have your console spammed (does not send to discord)
 # Config area end, do not edit below code
 
